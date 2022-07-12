@@ -1,2 +1,5 @@
-# startRepo
-Repo that has my current .gitignore 2/12/2022
+# Crptocurrency Project
+
+Cryptocurrency Tracker
+backend: https://github.com/jfdoyle3/CryptocurrencyTracker
+frontend: https://github.com/jfdoyle3/cryptocurrencytracker-frontend
